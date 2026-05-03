@@ -66,4 +66,4 @@ That has always been enough.
 
 And for many of us, it can be enough again.
 
-*Next: [What is a Vertical World?](01-foundational/02-vertical-world.md)*
+*Next: [What is a Vertical World?](02-vertical-world.md)*
