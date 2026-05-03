@@ -22,6 +22,7 @@ The project examines both the promise and the real shadows of such worlds.
 - [No Ceiling, No Crumbling](01-foundational/04-no-ceiling-no-crumbling.md) – Why horizontal meaning doesn't collapse when you remove God.
 - [The Atheist’s False Dilemma](01-foundational/05-atheists-false-dilemma.md) – Vertical vs. nihilism is a trap; horizontal is the third way.
 - [Nietzsche in the Horizontal World](01-foundational/06-nietzsche-in-the-horizontal-world.md) – Europe's death of God crisis vs. East Asian immanence: respect for the ground, critique of harmony and quietism.
+- [Peterson's Vertical Anxiety](01-foundational/07-petersons-vertical-anxiety.md) – Why a psychologist who sees belief as essential cannot commit, and what he misses about the horizontal alternative.
 
 ### II. East Asian Roots (The Promise)
 - [Confucius Didn’t Need a Sky](02-east-asian-roots/01-confucius-didnt-need-a-sky.md) – Ritual, virtue, social harmony as horizontal gravity.
@@ -53,6 +54,9 @@ The project examines both the promise and the real shadows of such worlds.
 - [The Sacred Ordinary](05-horizontal-ethics/04-sacred-ordinary.md) – Weeding a garden as liturgy; a shared meal as eucharist.
 - [Dignity Without a Divine Image](05-horizontal-ethics/05-dignity-without-divine-image.md) – Worth from relation and role, not from being created in God's likeness.
 - [Grief in a Horizontal World](05-horizontal-ethics/06-grief-in-horizontal-world.md) – Mourning without an afterlife: memory, legacy, immanent consolation.
+- [Kung Fu and the Horizontal Mind](05-horizontal-ethics/07-kung-fu-horizontal-mind.md) – Why mastery thrives in an immanent world without a ceiling.
+- [The Discipline of the Sideways](05-horizontal-ethics/08-discipline-sideways.md) – Attention, patience, and embodied skill through ritual and relationship.
+- [Cultivation vs. the Scroll](05-horizontal-ethics/09-cultivation-vs-scroll.md) – Does residual horizontality resist social media fragmentation?
 
 ### VI. Modern & Urban Horizontality
 - [Horizontal in a High-Rise](06-modern-urban/01-horizontal-in-high-rise.md) – Can the ground hold in a lonely city apartment?
