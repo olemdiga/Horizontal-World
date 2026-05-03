@@ -64,4 +64,4 @@ The first step is simple recognition: the ceiling is gone, but the walls are sti
 
 ---
 
-*Next: [The Atheist’s False Dilemma](01-foundational/05-atheists-false-dilemma.md)*
+*Next: [The Atheist’s False Dilemma](05-atheists-false-dilemma.md)*
