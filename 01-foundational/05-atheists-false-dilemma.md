@@ -62,4 +62,4 @@ The false dilemma is a door that locks from the inside. The key is not more argu
 
 ---
 
-*Next: [Nietzsche in the Horizontal World](01-foundational/06-nietzsche-in-the-horizontal-world.md)*
+*Next: [Nietzsche in the Horizontal World](06-nietzsche-in-the-horizontal-world.md)*
