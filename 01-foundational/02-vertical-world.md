@@ -66,4 +66,4 @@ The next essay explores what it means to live in a world where meaning grows not
 
 ---
 
-*Next: [What is a Horizontal World?](01-foundational/03-horizontal-world.md)*
+*Next: [What is a Horizontal World?](03-horizontal-world.md)*
