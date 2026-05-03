@@ -58,4 +58,4 @@ Nietzsche diagnosed Europe's crisis with unmatched clarity. But the cure he soug
 
 ---
 
-*Next: [Peterson's Vertical Anxiety](01-foundational/07-petersons-vertical-anxiety.md)*
+*Next: [Peterson's Vertical Anxiety](07-petersons-vertical-anxiety.md)*
