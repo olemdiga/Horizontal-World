@@ -80,4 +80,4 @@ But it is a livable, coherent, and often beautiful one.
 
 ---
 
-*Next: [No Ceiling, No Crumbling](01-foundational/04-no-ceiling-no-crumbling.md)*
+*Next: [No Ceiling, No Crumbling](04-no-ceiling-no-crumbling.md)*
