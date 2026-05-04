@@ -35,7 +35,7 @@ The project examines both the promise and the real shadows of such worlds.
 - [ ] [Chan/Zen: The Everyday Mind is the Way](02-east-asian-roots/08-chan-everyday-mind.md) – Chopping wood, carrying water.
 
 ### III. Horizontal Tendencies Beyond East Asia
-- [ ] [The Ground is Everywhere](03-horizontal-tendencies/01-the-ground-is-everywhere.md) – Indigenous American, African traditional, and other immanent worldviews as parallel horizontals.
+- [x] [The Ground is Everywhere](03-horizontal-tendencies/01-the-ground-is-everywhere.md) – Indigenous American, African traditional, and other immanent worldviews as parallel horizontals.
 - [ ] [Ritual as Relation](03-horizontal-tendencies/02-ritual-as-relation.md) – How many non‑Asian traditions use ceremony to maintain cosmic and social balance (e.g., *ma'at*, *pax deorum*).
 - [ ] [The Great Spirit Who Withdraws](03-horizontal-tendencies/03-great-spirit-who-withdraws.md) – Creator figures who step back, leaving a horizontal world of spirits, nature, and community.
 - [x] [The Stoic Logos: Virtue Without Transcendence](03-horizontal-tendencies/04-stoic-logos.md) – Immanent reason without a creator: virtue as living according to nature.
@@ -57,7 +57,7 @@ The project examines both the promise and the real shadows of such worlds.
 - [ ] [The Sacred Ordinary](05-horizontal-ethics/04-sacred-ordinary.md) – Weeding a garden as liturgy; a shared meal as eucharist.
 - [ ] [Dignity Without a Divine Image](05-horizontal-ethics/05-dignity-without-divine-image.md) – Worth from relation and role, not from being created in God's likeness.
 - [ ] [Grief in a Horizontal World](05-horizontal-ethics/06-grief-in-horizontal-world.md) – Mourning without an afterlife: memory, legacy, immanent consolation.
-- [ ] [Kung Fu and the Horizontal Mind](05-horizontal-ethics/07-kung-fu-horizontal-mind.md) – Why mastery thrives in an immanent world without a ceiling.
+- [x] [Kung Fu and the Horizontal Mind](05-horizontal-ethics/07-kung-fu-horizontal-mind.md) – Why mastery thrives in an immanent world without a ceiling.
 - [ ] [The Discipline of the Sideways](05-horizontal-ethics/08-discipline-sideways.md) – Attention, patience, and embodied skill through ritual and relationship.
 - [ ] [Cultivation vs. the Scroll](05-horizontal-ethics/09-cultivation-vs-scroll.md) – Does residual horizontality resist social media fragmentation?
 
