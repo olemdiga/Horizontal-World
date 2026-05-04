@@ -26,7 +26,7 @@ The project examines both the promise and the real shadows of such worlds.
 
 ### II. East Asian Roots (The Promise)
 - [x] [Confucius Didn’t Need a Sky](02-east-asian-roots/01-confucius-didnt-need-a-sky.md) – Ritual, virtue, social harmony as horizontal gravity.
-- [ ] [Laozi’s Flowing Sideways](02-east-asian-roots/02-laozi-flowing-sideways.md) – The Dao that goes "left and right."
+- [x] [Laozi’s Flowing Sideways](02-east-asian-roots/02-laozi-flowing-sideways.md) – The Dao that goes "left and right."
 - [ ] [Zhuangzi’s Butterfly: Equality of Things](02-east-asian-roots/03-zhuangzi-butterfly.md) – Radical horizontality: no hierarchy between human and insect, dream and waking.
 - [ ] [Wu Wei: Effortless Action as Horizontal Practice](02-east-asian-roots/04-wu-wei-horizontal-practice.md) – How not‑forcing becomes moving sideways.
 - [ ] [The Daoist Rejection of the Vertical](02-east-asian-roots/05-daoist-rejection-of-vertical.md) – No judgment, no salvation, no final telos – just the Dao.
