@@ -1,4 +1,4 @@
-# Preface
+r# Preface
 
 The sky is empty. But the ground is full.
 
@@ -28,4 +28,4 @@ But the ground remains — full of relationships, responsibilities, beauty, memo
 
 Let us walk sideways.
 
-*The Author*
+*Olem Diga*
